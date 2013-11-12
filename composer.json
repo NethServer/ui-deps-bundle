@@ -1,0 +1,4 @@
+{
+    "name": "nethserver/ui-deps-bundle",
+    "description": "JS and CSS dependencies for NethServer web UI"
+}
